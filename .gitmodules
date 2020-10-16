@@ -1,0 +1,15 @@
+[submodule "sdk"]
+	path = sdk
+	url = git@github.com:multiswap/sdk.git
+[submodule "interface"]
+	path = interface
+	url = git@github.com:multiswap/interface.git
+[submodule "default-token-list"]
+	path = default-token-list
+	url = git@github.com:multiswap/default-token-list.git
+[submodule "assets"]
+	path = assets
+	url = git@github.com:multiswap/assets.git
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com:multiswap/contracts.git

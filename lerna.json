@@ -1,0 +1,20 @@
+{
+  "packages": [
+    "contracts",
+    "interface",
+    "sdk",
+    "assets",
+    "default-token-list"
+  ],
+  "version": "independent",
+  "bootstrap": {
+    "npmClientArgs": [
+      "--no-package-lock"
+    ]
+  },
+  "publish": {
+    "ignoreChanges": [
+      "*.md"
+    ]
+  }
+}
